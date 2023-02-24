@@ -26,6 +26,10 @@
                     Harmonics harmonics = new Harmonics();
                     harmonics.HarmonicSeries();
                     break;
+                case 5:
+                    FindQuotient findQuotient = new FindQuotient();
+                    findQuotient.FindQuotients();
+                    break;
             }
         }
     }
